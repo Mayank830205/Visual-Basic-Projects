@@ -1,4 +1,4 @@
-these all the project are visual basic 
+these all the project are of visual basic 6.0-->
  Requirements
  1.Ms Access 2010
  2.Microsoft visual Basic 6.0
